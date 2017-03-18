@@ -1,0 +1,19 @@
+# <- este símbolo é tido como um comentário.
+
+#lendo a imagem de um dispositivo
+M = ler_imagem
+
+#você tem que dar o valor correto às duas variáveis abaixo.
+#cone_x e cone_y são os pontos x e y, respectivamente, do centro
+#do retângulo que encobre completamente o cone.
+cone_x = 0
+cone_y = 0
+
+#bônus: dê valor corretamente à variável abaixo
+hor_angulo = 0.0
+
+#----COMPLETE O CÓDIGO AQUI-----
+
+
+
+#-------------------------------
